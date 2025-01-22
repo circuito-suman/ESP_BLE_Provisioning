@@ -86,4 +86,5 @@ For detailed steps on configuring and using ESP-IDF to build projects, refer to 
 ![alt text](image.png)
 
 ## Serial Logs
+Click on the following to watch the video.
 [![logs](log.png)](esp_logs.mp4)
